@@ -1,5 +1,5 @@
 ## É uma honra recebê-lo(a).👋🏼
-Meu nome é Eduardo Jesus, sou natural do Rio de Janeiro e estou cursando Engenharia da Computação no Instituto de Tecnologia e Liderança (Inteli). 
+Meu nome é Eduardo Jesus, sou natural do Rio de Janeiro e estou cursando Engenharia da Computação no Instituto de Tecnologia e Liderança (Inteli).  
 Permita-me apresentar mais detalhes sobre mim: 
 
 - 🥋 Atleta e competidor de Jiu-Jitsu, até o momento, conquistei inúmeras medalhas e troféus e fui consagrado, em 2020, campeão estadual do Rio de Janeiro.
@@ -9,8 +9,11 @@ Permita-me apresentar mais detalhes sobre mim:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoJesusTavaresSantAnna&count_private=true&show_icons=true&theme=midnight-purple&show_owner=true) ](https://github.com/EduardoJesusTavaresSantAnna/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJesusTavaresSantAnna&layout=compact&theme=midnight-purple)](https://github.com/EduardoJesusTavaresSantAnna/github-readme-stats)
 
+## Buddy
+- Para essa nova jornada conto com o apoio do meu veterano Yuri Toledo
 ##
 
 <div>
     <a href="https://instagram.com/tavareszedu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="mailto:eduardo.santanna@sou.inteli.edu.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
