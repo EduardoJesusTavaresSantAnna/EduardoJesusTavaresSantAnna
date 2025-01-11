@@ -10,7 +10,7 @@ Permita-me apresentar mais detalhes sobre mim:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoJesusTavaresSantAnna&count_private=true&show_icons=true&theme=midnight-purple&show_owner=true) ](https://github.com/EduardoJesusTavaresSantAnna/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJesusTavaresSantAnna&layout=compact&theme=midnight-purple)](https://github.com/EduardoJesusTavaresSantAnna/github-readme-stats)
 
 ## Buddy
-- Para essa nova jornada conto com o apoio do meu veterano Yuri Toledo
+- Para essa nova jornada conto com o apoio do meu veterano Yuri Toledo, cujo o GituHub é YuriFAToleto
 ##
 
 <div>
