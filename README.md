@@ -9,6 +9,10 @@ Permita-me apresentar mais detalhes sobre mim:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoJesusTavaresSantAnna&count_private=true&show_icons=true&theme=midnight-purple&show_owner=true) ](https://github.com/EduardoJesusTavaresSantAnna/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJesusTavaresSantAnna&layout=compact&theme=midnight-purple)](https://github.com/EduardoJesusTavaresSantAnna/github-readme-stats)
 
+<div style="display": inline_block"><br>
+    <img align="rigth" alt="Gif" scr="[https://cdn.discordapp.com/attachments/1138197904192962582/1327763066749714484/GifG.gif]"
+</div>
+
 ##
 
 <div>
